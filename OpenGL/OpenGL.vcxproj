@@ -97,6 +97,8 @@
     <ClCompile Include="Source\Main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Assets\Fragment_Core.glsl" />
+    <Content Include="Assets\Fragment_Core2.glsl" />
     <Content Include="Assets\Vertex_Core.glsl" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
