@@ -95,11 +95,15 @@
     </ClCompile>
     <ClCompile Include="Library\stb.cpp" />
     <ClCompile Include="Source\Main.cpp" />
+    <ClCompile Include="Source\Shader.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Assets\Fragment_Core.glsl" />
     <Content Include="Assets\Fragment_Core2.glsl" />
     <Content Include="Assets\Vertex_Core.glsl" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Source\Shader.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
